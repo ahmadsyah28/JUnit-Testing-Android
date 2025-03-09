@@ -23,7 +23,7 @@ class InputValidatorTest {
      *
      * Expected result: Fungsi mengembalikan true untuk angka valid dan false untuk input tidak valid
      */
-    @Test
+    @Test  // Perbaikan: @Tes -> @Test
     fun testIsValidNumber() {
         // Test case untuk angka positif
         assertTrue(inputValidator.isValidNumber("123"))
