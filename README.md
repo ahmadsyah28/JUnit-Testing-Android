@@ -87,4 +87,4 @@ app/
 Pengujian unit (unit testing) sangat penting dalam pengembangan aplikasi untuk memastikan bahwa setiap komponen berfungsi sebagaimana mestinya. Dengan menggunakan JUnit dan Espresso, kita dapat menguji logika bisnis dan UI aplikasi Android secara menyeluruh.
 
 ## Link GitHub
-[Repository GitHub](https://github.com/ahmadsyahramadhan/JUnitTestingApp)
+[Repository GitHub](https://github.com/ahmadsyah28/JUnit-Testing-Android.git)
